@@ -3,7 +3,7 @@ import React from 'react'
 export const AddTask = () => {
   return (
     <div>
-      <h1>Új task hozzáadása</h1>
+      <h3>Új task hozzáadása</h3>
       <form >
         <input type="text" placeholder='új task...' />
         <input type="submit" value="mentés" />
